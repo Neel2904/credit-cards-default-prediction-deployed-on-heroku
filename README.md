@@ -1,1 +1,1 @@
-# credit-cars-default-prediction-deployed-on-heroku
+# credit-cards-default-prediction-deployed-on-heroku
